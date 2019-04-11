@@ -12,7 +12,7 @@ The data for this model is fairly simplified as it has very few missing pieces. 
   <li><b>Years Experience:</b> How many years of experience</li>
   <li><b>Job Type:</b> The position held (CEO, CFO, CTO, Vice President, Manager, Janitor, and senior or junior position)</li>
   <li><b>College Degree:</b> Doctoral, Masters, Bachelors, High School, or None</li>
-  <li><b>College Major:</b> Biology, Business, Chemistry, Computer Science, Engineering, Literature, MAth, Physics, or None</li>
+  <li><b>College Major:</b> Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None</li>
   <li><b>Industry:</b> Auto, Education, Finance, Health, Oil, Service, or Web</li>
   <li><b>Miles From Metropolis:</b> How many miles away from a major city</li>
   </ul>
